@@ -20,7 +20,7 @@ CONTAINER ID        IMAGE                  COMMAND                  CREATED     
 
 ```
 $ git remote add sinacloud $GIT_REPOS_URL_FOR_YOUR_APPLICATIRON
-$ git push sinacloud master:1
+$ git push sinacloud master
 ```
 
 部署完成之后，你就可以通过 http://$APPNAME.sinaapp.com 来访问你的应用了。
